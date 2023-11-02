@@ -1,12 +1,12 @@
 # WebRTC using ReactJS
 
 ## INSTALLATION
-1. Install NPM Packages for the frontend & server
+1. Install frontend and backend NPM servers
 ```
 npm i
 ```
 
-2. Start the server for frontend and backend
+2. Run frontend and backend servers
 ```
 npm start
 ```
